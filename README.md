@@ -5,7 +5,7 @@
 > Pour faire simple, le **M5Stack** est un kit de dévelopement qui contient un *ESP32* (micro-controleur avec wifi et bluetooth), un écran, une baterie et trois boutons.
 En gros, il faut voir ça comme un **mini ordinateur** que l'on va controler avec un language appelé **Micropython** (c'est une version de *Python* spécialisée pour les micro-controleur)
 
-### Commandes utiles pour l'activité
+### Commandes utiles pour l'activitée
 **Effacer le contenu de l'écran**
 ```python
 lcd.clear()
